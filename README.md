@@ -1,6 +1,8 @@
 # LibraryApp
-Sample library application built in Java!
+Sample library application built in Java! Uses State design pattern and features GUI and data serialization.
 
 
-To login as Owner, username is admin, password is admin
+Two Roles: Owner and customer.
+To login as owner use: admin/admin
+
 Find Customer logins in text file named customers
